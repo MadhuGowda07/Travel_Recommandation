@@ -1,0 +1,51 @@
+Route_ID,Origin,Destination,Distance (km),Duration (hours),Bus_Type,Ticket_Price (INR)
+R001,Pettymouth,West Joelborough,749,5.4,AC Sleeper,1616
+R002,Port Johnton,North Jonathan,1092,11.9,Non-AC Seater,967
+R003,Madisonberg,South Danny,1172,4.3,Non-AC Sleeper,1112
+R004,North Rebeccafort,Deborahfurt,232,12.2,Non-AC Seater,1806
+R005,East Courtney,Port Jeffery,305,1.5,Non-AC Seater,1982
+R006,New Jamieland,Markberg,1440,3.8,AC Sleeper,1421
+R007,Douglasshire,Port James,1138,6.5,AC Sleeper,504
+R008,East Jimburgh,Wendystad,844,11.1,AC Sleeper,1392
+R009,Kennedyborough,Jonesshire,1265,19.5,AC Sleeper,805
+R010,North Maryport,East Mark,804,2.5,AC Semi-Sleeper,1878
+R011,Port Stephenland,South Micheleside,1116,20.5,AC Semi-Sleeper,950
+R012,Brownbury,Lake Holly,1269,23.5,Non-AC Sleeper,1543
+R013,Gilberttown,Kaylachester,477,2.6,AC Semi-Sleeper,1240
+R014,New Robert,Lake Cynthiamouth,1498,13.8,Non-AC Sleeper,316
+R015,Douglaschester,Lawrenceberg,1374,21.5,AC Semi-Sleeper,844
+R016,Williamside,West Leslie,1408,19.8,Non-AC Seater,1653
+R017,Port Jessica,Port Emily,435,11.4,AC Semi-Sleeper,907
+R018,Port Stacy,Port Nicoleville,487,8.4,AC Sleeper,1199
+R019,Pooleburgh,West Eric,933,12.0,AC Sleeper,1921
+R020,South Justinhaven,Port Markville,528,13.0,AC Sleeper,655
+R021,Goldenview,New Marissashire,110,14.6,Non-AC Sleeper,1471
+R022,Garyton,North Kellyland,1463,15.2,Non-AC Seater,1517
+R023,West Lisaport,Jessicaview,865,17.7,AC Sleeper,835
+R024,South Richard,New Brandonmouth,742,15.7,AC Semi-Sleeper,1141
+R025,Lake Jason,East Madison,618,12.5,AC Semi-Sleeper,891
+R026,Walterfort,Port Johnland,636,7.4,Non-AC Seater,1765
+R027,Brooksshire,Douglasmouth,478,20.8,AC Sleeper,998
+R028,Nguyenstad,Lake Samuelfurt,480,13.1,AC Sleeper,1178
+R029,Ramireztown,Evelynland,1235,8.2,Non-AC Seater,443
+R030,Crossside,Jillianview,796,18.0,AC Semi-Sleeper,1493
+R031,West Jeffrey,South Kim,73,9.6,Non-AC Seater,1264
+R032,Langland,Whitneyhaven,1201,7.6,AC Sleeper,1024
+R033,North Deborah,Lake Jacobfort,337,6.4,Non-AC Sleeper,1288
+R034,New Jeremy,North Lisabury,919,11.6,Non-AC Sleeper,1177
+R035,New Justin,Ronniemouth,933,5.5,AC Semi-Sleeper,454
+R036,Stanleyborough,Herreraberg,855,23.9,AC Semi-Sleeper,350
+R037,Laurenbury,Dylanton,896,6.7,Non-AC Sleeper,951
+R038,Mccoystad,Westberg,1087,5.0,Non-AC Seater,360
+R039,Terrichester,Youngmouth,107,6.4,Non-AC Sleeper,976
+R040,Gallowayport,South Francisco,1156,19.4,Non-AC Seater,1985
+R041,East Marymouth,East Ethan,96,14.7,Non-AC Sleeper,1822
+R042,Lake Michael,Jessicabury,1012,18.2,AC Semi-Sleeper,1531
+R043,East Deanna,Nicolestad,125,4.0,AC Sleeper,1012
+R044,Newmanside,Lake Jamesburgh,760,18.8,AC Semi-Sleeper,1319
+R045,East Kathy,East Tyler,1168,5.8,Non-AC Seater,416
+R046,Williamsville,Mcdowellburgh,140,14.4,Non-AC Seater,1542
+R047,Benjaminstad,West Annaland,662,11.7,Non-AC Seater,856
+R048,North Mistyberg,Moorestad,472,16.1,Non-AC Sleeper,1793
+R049,West Trevor,North Tammyfort,836,19.7,AC Sleeper,551
+R050,Vincentview,South Corystad,347,14.8,Non-AC Sleeper,725

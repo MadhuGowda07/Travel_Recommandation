@@ -1,0 +1,101 @@
+Customer_ID,Name,Age_Group,Gender,Location,Preferred_Bus_Type
+C001,Ashley Hooper,26–40,Non-Binary,Annchester,AC Sleeper
+C002,Antonio Campos,26–40,Male,New John,AC Semi-Sleeper
+C003,Rebecca Rios,<18,Male,New Lee,Non-AC Sleeper
+C004,Kathryn Mueller,41–60,Non-Binary,New Melissa,AC Sleeper
+C005,Riley Mitchell,18–25,Female,Perrystad,Non-AC Seater
+C006,Cynthia Norman,41–60,Non-Binary,Mendeztown,Non-AC Sleeper
+C007,Elizabeth Simpson,41–60,Male,Brianland,Non-AC Sleeper
+C008,Jonathan Schwartz,18–25,Female,Kimberlystad,Non-AC Sleeper
+C009,Jonathan Lynn,>60,Male,Angelicaview,Non-AC Sleeper
+C010,Kaitlyn Sullivan,41–60,Male,South Eric,AC Semi-Sleeper
+C011,Jessica Chandler,<18,Female,Durhambury,AC Sleeper
+C012,Mr. Dennis Riley,<18,Non-Binary,East Ashley,AC Sleeper
+C013,Thomas Wang,26–40,Non-Binary,Port Matthewmouth,Non-AC Seater
+C014,Matthew Randall,26–40,Male,South Robert,AC Semi-Sleeper
+C015,Joseph Anderson,>60,Non-Binary,Elizabethland,Non-AC Sleeper
+C016,Nicole Atkinson,>60,Female,West Gregg,AC Sleeper
+C017,Lori Rogers,>60,Female,West Colleentown,AC Semi-Sleeper
+C018,Mrs. April Carey,26–40,Non-Binary,Port Mitchell,Non-AC Sleeper
+C019,Kaitlyn Snow,26–40,Non-Binary,Danielport,AC Sleeper
+C020,Jenna Taylor,<18,Female,Michaelton,Non-AC Sleeper
+C021,Nathaniel Davis,18–25,Male,South Mary,AC Semi-Sleeper
+C022,Jennifer Baker,18–25,Non-Binary,Port Michelle,Non-AC Sleeper
+C023,David Perez,>60,Non-Binary,South Katherine,AC Sleeper
+C024,Mallory Lopez,>60,Male,Carterborough,AC Semi-Sleeper
+C025,Brittany Casey,26–40,Female,West Benjaminland,Non-AC Seater
+C026,Stephanie Williams,>60,Male,West Bradley,Non-AC Sleeper
+C027,Jill Barrera,18–25,Non-Binary,South Kevin,AC Sleeper
+C028,Amber Banks,26–40,Non-Binary,Staceyburgh,Non-AC Sleeper
+C029,Richard Johnson,<18,Non-Binary,Normachester,Non-AC Sleeper
+C030,Shane Davidson,18–25,Non-Binary,South Jamesside,AC Sleeper
+C031,David Jarvis,>60,Male,New Michellemouth,AC Semi-Sleeper
+C032,Katherine Gallagher DDS,18–25,Non-Binary,Josephport,Non-AC Sleeper
+C033,Jocelyn Miller,41–60,Non-Binary,Lake Robin,Non-AC Seater
+C034,Jose Torres,<18,Male,South Sarahstad,Non-AC Seater
+C035,Sherry Huynh,>60,Non-Binary,Rodriguezhaven,AC Semi-Sleeper
+C036,Jimmy Lane,>60,Non-Binary,Jessestad,AC Sleeper
+C037,James Blanchard,18–25,Female,Beardburgh,Non-AC Seater
+C038,Nathan Henderson Jr.,26–40,Female,Lake Kimberlyborough,Non-AC Sleeper
+C039,Michael Potts,<18,Female,Payneshire,AC Semi-Sleeper
+C040,John Jensen,>60,Female,Alexisshire,Non-AC Sleeper
+C041,Caroline Williams,26–40,Male,Francoberg,Non-AC Sleeper
+C042,Faith Henderson,<18,Female,Davidfurt,AC Semi-Sleeper
+C043,Vincent Brown,41–60,Non-Binary,Jordanshire,AC Sleeper
+C044,Paul Brown,>60,Male,New Brittanyburgh,Non-AC Sleeper
+C045,Chelsey Wagner,18–25,Female,New Leslie,Non-AC Sleeper
+C046,Elizabeth Clark,41–60,Non-Binary,Coreystad,Non-AC Sleeper
+C047,Todd Chung,>60,Non-Binary,West Jonathan,AC Semi-Sleeper
+C048,Selena Cook,>60,Non-Binary,East Chelsea,AC Semi-Sleeper
+C049,Kenneth Morse,26–40,Non-Binary,Raymondview,Non-AC Seater
+C050,John Smith,>60,Non-Binary,Phelpshaven,Non-AC Seater
+C051,Jacob Jones,26–40,Non-Binary,Cynthiaport,Non-AC Sleeper
+C052,Kyle Stewart,26–40,Non-Binary,Jeffreybury,AC Sleeper
+C053,Charles Allen,<18,Female,Lake Amanda,AC Sleeper
+C054,Robert Ibarra,<18,Non-Binary,Jonathanport,Non-AC Sleeper
+C055,Laura Ramirez,>60,Female,East Kathleenside,AC Sleeper
+C056,Susan Bryan,>60,Female,Byrdville,AC Semi-Sleeper
+C057,James Nguyen,41–60,Non-Binary,East Steven,Non-AC Sleeper
+C058,Sabrina Moody,<18,Female,Davidmouth,AC Sleeper
+C059,Craig Smith,41–60,Female,West Danielfort,AC Semi-Sleeper
+C060,Karen Woodward,26–40,Female,Michaelhaven,AC Sleeper
+C061,Crystal Hendrix,>60,Male,Lake Travisview,Non-AC Sleeper
+C062,Nicholas Rivera,<18,Non-Binary,West Aaron,AC Sleeper
+C063,Alejandra Pitts,18–25,Male,North Angela,AC Sleeper
+C064,Crystal Fisher,<18,Male,Chapmanborough,Non-AC Seater
+C065,Robin Martinez,<18,Non-Binary,Mcdanielside,AC Sleeper
+C066,Robert Odonnell,18–25,Female,South Gregorystad,AC Sleeper
+C067,Stephanie Davenport,<18,Non-Binary,Stacyton,Non-AC Sleeper
+C068,Stephanie Gutierrez,<18,Female,Turnerview,AC Semi-Sleeper
+C069,Jason Fitzpatrick,<18,Male,South Kelseyville,AC Sleeper
+C070,April Ramsey,26–40,Non-Binary,North Hectorfurt,AC Semi-Sleeper
+C071,Andrew Clements,18–25,Female,Andrewview,AC Sleeper
+C072,James Aguirre,18–25,Non-Binary,East Marie,AC Semi-Sleeper
+C073,Lauren Monroe,41–60,Male,Ashleyborough,Non-AC Sleeper
+C074,Heather Jones,26–40,Female,South Kathrynville,Non-AC Sleeper
+C075,Robert Weaver,>60,Male,Port Amanda,Non-AC Seater
+C076,Tyler Shepherd,18–25,Non-Binary,Evanburgh,AC Sleeper
+C077,Jennifer Vaughn,>60,Non-Binary,West Danny,Non-AC Seater
+C078,Tammy Martin PhD,41–60,Male,West Lindsayborough,Non-AC Seater
+C079,Charles Romero,<18,Non-Binary,Maychester,AC Sleeper
+C080,Leroy Williams,>60,Male,West Austinshire,Non-AC Sleeper
+C081,Marissa Jimenez DDS,41–60,Female,Port Angie,AC Sleeper
+C082,Rebecca Beck,18–25,Male,East Amberfurt,Non-AC Seater
+C083,Gabriel Lopez,>60,Male,North Tinaborough,AC Semi-Sleeper
+C084,Mark Lee,<18,Male,New Jacobton,AC Semi-Sleeper
+C085,Ashley Bowman,26–40,Non-Binary,Paulaberg,AC Semi-Sleeper
+C086,William Mathews,26–40,Male,New Kimberly,AC Semi-Sleeper
+C087,Sean Bennett,>60,Male,Brittanymouth,Non-AC Sleeper
+C088,Matthew Murillo,18–25,Non-Binary,North Darin,Non-AC Seater
+C089,Melanie Ramirez,<18,Female,Cookefort,Non-AC Seater
+C090,Pamela Brooks,41–60,Non-Binary,South Jason,AC Semi-Sleeper
+C091,Kathryn Mcknight,18–25,Female,Port Meghan,Non-AC Sleeper
+C092,Jason George,18–25,Non-Binary,Hallshire,AC Semi-Sleeper
+C093,Samantha Osborne,18–25,Female,Calebfort,Non-AC Sleeper
+C094,Natasha Davenport,41–60,Female,Armstrongshire,Non-AC Sleeper
+C095,Mary Burton,26–40,Non-Binary,East Deborahshire,Non-AC Sleeper
+C096,Kathy Shah,18–25,Non-Binary,Lake Stephanie,Non-AC Seater
+C097,Travis Newman,18–25,Male,South Linda,AC Semi-Sleeper
+C098,Billy Valdez,26–40,Non-Binary,Wilsonshire,Non-AC Seater
+C099,Mrs. Anna Jordan,>60,Female,East Davidmouth,Non-AC Seater
+C100,Helen Price,41–60,Male,Martinezview,AC Sleeper
